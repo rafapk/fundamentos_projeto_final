@@ -46,5 +46,15 @@
   
   ## Terceira Rodada de perguntas
   
-  
+   Após analisar as respostas das perguntas anteriores, o CEO da XGB Sales lhe fez mais algumas perguntas:
+
+  1. Ajustar a coluna `name` para que ela fique somente com o nome da moto.
+  2. Qual das fabricantes possui o maior preço médio de suas motos?
+  3. Qual o fabricante que possui a moto com o maior quilometragem?
+  4. Qual o fabricante que possui a moto mais velha?
+  5. O fabricante que possui a moto mais cara do Dataset é também o fabricante que possui menos motos cadastradas?
+  6. Qual o fabricante que possui a menor variação de valor de venda?
+  7. Quais motos eu devo comprar? 
+     - Leve em conta que eu desejo motos com no máximo 3 anos de uso; no máximo 40 mil quilometros rodados; que sejam de um único dono; que estejam sendo vendidas por possoas físicas e que tenham o valor pretendido de venda menor que o valor do showroom. Salve um relatório .csv contendo o modelo, preço de venda, quilometro rodado e ano, ordenado por valor de venda de forma decrescente.
+
   
